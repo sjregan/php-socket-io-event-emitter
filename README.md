@@ -4,6 +4,14 @@ PHP Socket Client
 Fork from : ```https://github.com/psinetron/PHP_SocketIO_Client```
 
 
+***install***
+
+
+```
+php composer require sidson-aidson/php-socket-io-event-emitter
+```
+
+
 ***Php***
 ```php
 

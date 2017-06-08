@@ -1,11 +1,10 @@
 {
-    "name": "mac/php-socket-io-event-emitter",
-    "description": "socket.io client event emitter",
-    "require": {},
+    "name": "sidson-aidson/php-socket-io-event-emitter",
     "authors": [
         {
-            "name": "Sidson Aidson",
+            "name": "Moussa Ndour",
             "email": "moussa_ndour@hotmail.fr"
         }
-    ]
+    ],
+    "require": {}
 }
