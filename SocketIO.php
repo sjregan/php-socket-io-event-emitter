@@ -336,7 +336,7 @@ class SocketIO
             } else {
                 do
                 {
-                    usleep($this->retryInterval);
+                    usleep($this->retryInterval * 1000);
                     $this->maxRetry--;
                     $success = $this->send();
 
