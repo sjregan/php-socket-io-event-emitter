@@ -8,7 +8,7 @@ Fork from : ```https://github.com/psinetron/PHP_SocketIO_Client```
 
 
 ```
-php composer require sidson-aidson/php-socket-io-event-emitter
+php composer require touskar/php-socket-io-event-emitter
 ```
 
 
