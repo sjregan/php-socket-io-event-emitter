@@ -8,6 +8,6 @@
     ],
      "autoload": {
         "psr-4": {
-        "Yantb\\PackageTest\\": "src/"
+        "ManuelMousett\\EmitEventSocketIO\\": "src/"
     }
 }
