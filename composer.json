@@ -8,6 +8,6 @@
     ],
      "autoload": {
         "psr-4": {
-        "ManuelMousett\\EmitEventSocketIO\\": "src/"
+        "ManuelMousett\\EmitEventSocketIO\\": "SocketIO.php"
     }
 }
