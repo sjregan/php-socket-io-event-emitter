@@ -6,5 +6,8 @@
             "email": "moussa_ndour@hotmail.fr"
         }
     ],
-    "require": {}
+     "autoload": {
+        "psr-4": {
+        "Yantb\\PackageTest\\": "src/"
+    }
 }
