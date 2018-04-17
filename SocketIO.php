@@ -1,11 +1,5 @@
 <?php
-
-/**
- * Created by PhpStorm.
- * User: mac
- * Date: 07/06/2017
- * Time: 13:09
- */
+namespace sjregan\SocketIO;
 
 class SocketIO
 {

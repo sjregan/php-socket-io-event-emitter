@@ -1,13 +1,15 @@
 {
-    "name": "touskar/php-socket-io-event-emitter",
-    "authors": [
-        {
-            "name": "Moussa Ndour",
-            "email": "moussa_ndour@hotmail.fr"
-        }
-    ],
-     "autoload": {
-        "psr-4": {
-        "ManuelMousett\\EmitEventSocketIO\\": "SocketIO.php"
+  "name": "sjregan/php-socket-io-event-emitter",
+  "authors": [
+    {
+      "name": "Moussa Ndour",
+      "email": "moussa_ndour@hotmail.fr"
     }
+  ],
+  "autoload": {
+    "psr-4": { "sjregan\\SocketIO\\":"" },
+    "exclude-from-classmap": [
+      "/test/"
+    ]
+  }
 }

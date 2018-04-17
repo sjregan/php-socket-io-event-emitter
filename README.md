@@ -1,14 +1,14 @@
 PHP Socket Client 
 ===================
 
-Fork from : ```https://github.com/psinetron/PHP_SocketIO_Client```
+Forked from ```https://github.com/manuelmousett/php-socket-io-event-emitter``` to fix composer structure to allow autoloading.
 
 
 ***install***
 
 
 ```
-php composer require touskar/php-socket-io-event-emitter
+php composer require sjregan/php-socket-io-event-emitter
 ```
 
 
